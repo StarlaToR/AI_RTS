@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2dc026bf55eea34ab3299044029dc20, type: 3}
+  m_Name: BE_ScoutEnemyBase
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: e1de5e0b5335d2e4799cfb29c0d6e534, type: 2}
+  parameterObject: {fileID: 11400000, guid: f71b08a756cc5ec479f6d7f8b73e4add, type: 2}
+  isClone: 1
+  cost: 1
+  isInvalid: 0
+  blackboard:
+    unitPower: 4
+    factoriesCount: 1
+    destination: {x: 0, y: 0, z: 0}
+    targetResource: {fileID: 0}
+    enemyBase: {fileID: 0}
+    enemyFactory: {fileID: 0}
+    enemyUnits: []
+    damagedFactories: []
+    squadFormation: 0
+  conditonsTests:
+  - {fileID: 11400000, guid: e910ecbb8d3843744a94c7c7448cb763, type: 2}
+  stateParameters: {fileID: 11400000, guid: 4127dffb06f833e4db3b75d9b848829b, type: 2}
+  goalTypeBehavior: 0

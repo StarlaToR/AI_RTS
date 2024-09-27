@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "adf2536238f09b49",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2ec22d1ad397a02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a7e9fc85de857ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ac9b926cf252209",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1db9b1242949cb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c816e916a2ef628",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d60c9d1010b92d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9268e21a52625788",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e348279c36b2f3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ff8bb313d230b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61a9ac4969d1ffb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fb71ed71a835bc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f726a5942f59e205",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7466f0796016152",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "7c816e916a2ef628",
+  "lastOpenFiles": [
+    "Img/GameplayScreen1.png",
+    "Img",
+    "Temp/ADB-Refresh216abfc6bc441f2479dd08dcbcb58318",
+    "Temp/ADB-Refreshb922ad98695950c4cb6bb3e221b8005f",
+    "Temp/ADB-Refresh46d14fd89335ff14ebf2d2e432c91c42",
+    "Temp/ADB-Refresha9cd4e578409eef45831a921b04f44fe",
+    "Temp/ADB-Refreshb49d472540dfa8b4a99d5b1b08fa90dd",
+    "Temp/ADB-Refreshb33b47ced29bfe94d8af580b350d3f2c",
+    "Temp/ADB-Refreshbcbb6394039189b4dbfed2e36b67b0ba",
+    "Temp/ADB-Refresh8bc205e414a509a47aafc18e17877c71",
+    "Library/Bee/TundraBuildState.state"
+  ]
+}

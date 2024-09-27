@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70f6a0f0b57f354cad0620621647719, type: 3}
+  m_Name: AC_RepairTarget
+  m_EditorClassIdentifier: 
+  parameterObject: {fileID: 11400000, guid: 71a7e1ccaedbbfd46bf66c9b2df7b676, type: 2}
+  type: 1
